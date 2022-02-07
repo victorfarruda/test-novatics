@@ -79,3 +79,9 @@ board =
 - Código organizado e legível;
 - A linguagem a sua escolha, mas preferencialmente, utilize Javascript;
 - Adição de testes para cada desafio é bônus;
+
+
+## Para testar a solução basta usar os comandos abaixo
+
+- python problem_1.py -v
+- python problem_2.py -v
